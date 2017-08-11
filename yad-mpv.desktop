@@ -1,9 +1,9 @@
 [Desktop Entry]
 Type=Application
 Encoding=UTF-8
-Name=mpv-zui
+Name=yad-mpv
 Comment=A GUI to launch local files or urls in mpv.
-Exec=/usr/bin/mpv-zui
-Icon=/usr/share/icons/mpv-zui.png
+Exec=/usr/local/bin/yad-mpv
+Icon=/opt/yad-mpv/yad-mpv.png
 Categories=AudioVideo;Audio;Video;Player;TV;
 Terminal=false
